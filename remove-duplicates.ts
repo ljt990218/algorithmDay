@@ -28,5 +28,5 @@ const removeDuplicates2 = (nums: any) => {
     return nums.splice(0, small + 1)
 }
 
-console.log(removeDuplicates([0, 0, 0, 1, 1, 2, 2, 3, 3, 4, 6, 6]))
+console.log(removeDuplicates([0, 0, 1, 1, 2, 2, 3, 3, 4, 6, 6]))
 console.log(removeDuplicates2([0, 0, 0, 1, 1, 1, 2, 2, 3, 3, 4, 6, 6]))
