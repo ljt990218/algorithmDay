@@ -7,3 +7,5 @@
 # 3：rotate-array 旋转数组
 
 # 4：check-sum 数组连续元素和
+
+# 5 : two-sum 两数之和
